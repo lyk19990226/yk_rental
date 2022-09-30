@@ -1,1 +1,0 @@
-import{_ as e,o,c as s,a as c}from"./index.a3bea75d.js";const r={},t={class:"order"},_=c("h2",null,"order",-1),n=[_];function a(d,i){return o(),s("div",t,n)}const f=e(r,[["render",a]]);export{f as default};

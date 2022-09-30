@@ -1,1 +1,0 @@
-import{_ as e,o,c as s,a as c}from"./index.a3bea75d.js";const t={},_={class:"home"},n=c("h2",null,"home",-1),a=[n];function r(d,h){return o(),s("div",_,a)}const l=e(t,[["render",r]]);export{l as default};
