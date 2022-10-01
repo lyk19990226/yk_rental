@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,b as c}from"./index.e7647997.js";const t={},a={class:"favor"},r=c("h2",null,"favor",-1),_=[r];function n(f,d){return o(),s("div",a,_)}const l=e(t,[["render",n]]);export{l as default};

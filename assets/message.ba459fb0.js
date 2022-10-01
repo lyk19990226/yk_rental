@@ -1,1 +1,0 @@
-import{_ as e,o as s,c,b as o}from"./index.e9b236a1.js";const t={},a={class:"message"},_=o("h2",null,"message",-1),n=[_];function r(d,i){return s(),c("div",a,n)}const m=e(t,[["render",r]]);export{m as default};
