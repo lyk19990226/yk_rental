@@ -1,0 +1,1 @@
+import{a8 as e,a9 as a,aa as o,ad as s}from"./index.eb64f4fd.js";const t={},c={class:"favor"},r=s("h2",null,"favor",-1),n=[r];function _(d,f){return a(),o("div",c,n)}const l=e(t,[["render",_]]);export{l as default};
